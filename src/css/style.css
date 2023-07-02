@@ -44,6 +44,7 @@ body {
 
 .scroll-nav-disable {
   background-color: rgba(184, 181, 181, 0.493);
+  visibility: hidden;
 }
 
 .scroll-back {
